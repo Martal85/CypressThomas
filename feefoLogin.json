@@ -1,0 +1,10 @@
+{
+    "email": "mraleksiev85@gmail.com",
+    "wrongEmail1": "mraleksiev85@",
+    "wrongEmail2": "mraleksiev85@asd",
+    "wrongEmail3": "m@asd.com",
+    "wrongEmail4": "@asd.com",
+    "wrongEmail5": " mraleksiev85@gmail.com",
+    "Password1": "Test",
+    "Password2": "  "
+      }
